@@ -6,16 +6,25 @@ layout: default
   <div class="hero-copy">
     <span class="hero-kicker">AI Research Scientist</span>
     <h1>Dongyub (Jude) Lee</h1>
-    <p class="hero-meta">Zoom · U.S. Green Card Holder</p>
-    <p>I am a computer scientist and AI researcher with deep expertise in natural language processing (NLP) and the engineering of practical AI systems. Since May 2024, I have been working as an AI Research Scientist at Zoom. Before joining Zoom, I was part of the U.S. subsidiary of Naver, a leading Korean tech company, where I contributed significantly to the successful launch of 'Naver Cue.' This system, utilizing retrieval augmented generation (RAG), is now widely used across South Korea. Prior to Naver, I served as an AI research engineer at Kakao Corporation, developing my expertise in both task-oriented and open-domain dialogue systems.</p>
+    <p class="hero-meta">Zoom · Korea University</p>
+    <p>
+      My research has spanned NLP, including dialogue systems, question answering, and LLM reliability, and has more recently expanded into multimodal AI. My current work and research interests focus on Healthcare AI and understanding how safety is represented in LLMs. I am particularly interested in research that advances our understanding of AI while also contributing to reliable, practical systems for real-world applications.
+    </p>
+    <p>
+      Since May 2024, I have been working as an AI Research Scientist at Zoom. Previously, I
+      worked at Naver and Kakao, two of South Korea’s leading technology companies whose services
+      are part of everyday life for nearly everyone in the country. These experiences have shaped
+      my interest in both advancing AI research and building practical systems that can make a
+      meaningful impact at scale.
+    </p>
     <div class="link-row">
       <a class="link-chip" href="https://scholar.google.com/citations?user=Pz8yVqYAAAAJ&hl=en">Google Scholar</a>
-      <a class="link-chip" href="https://www.linkedin.com/in/dongyub-lee-56a65810a/">LinkedIn</a>
+      <a class="link-chip" href="https://www.linkedin.com/in/dongyub-jude-lee-56a65810a/">LinkedIn</a>
     </div>
   </div>
+
   <img class="profile-picture" src="profile.jpg" alt="Dongyub Jude Lee">
 </div>
-
 ## Research Interest
 
 <div class="chip-row">
@@ -25,6 +34,7 @@ layout: default
 </div>
 
 ## Academic Activities
+- Area Chair and Reviewer for ARR 2026.
 - Reviewer of NAACL 2023, ACL 2023, and ARR 2023.
 - Reviewer of ACL 2022 and NAACL 2022.
 - Reviewer of ACL 2021 and EMNLP 2021.
