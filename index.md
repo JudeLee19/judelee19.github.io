@@ -25,13 +25,6 @@ layout: default
 
   <img class="profile-picture" src="profile.jpg" alt="Dongyub Jude Lee">
 </div>
-## Research Interest
-
-<div class="chip-row">
-  <span class="chip">Dialogue Systems</span>
-  <span class="chip">Summarization</span>
-  <span class="chip">NLP</span>
-</div>
 
 ## Academic Activities
 - Area Chair and Reviewer for ARR 2026.
