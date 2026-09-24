@@ -56,7 +56,7 @@ layout: default
 <div class="pub">
   <p class="pub-title">Structured Clinical Memory for Safety-Consistent Diagnosis and Recommendation Generation in Long Medical Dialogues</p>
   <p class="pub-authors"><strong>Dongyub Jude Lee</strong>, Jungseob Lee, Eunhwan Park, Taesun Whang, Heuiseok Lim</p>
-  <p class="pub-venue"><a href="https://www3.cs.stonybrook.edu/~bibm2026/home.html">IEEE BIBM 2026</a></p>
+  <p class="pub-venue"><a href="https://www3.cs.stonybrook.edu/~bibm2026/">IEEE BIBM 2026</a></p>
 </div>
 
 <div class="pub">
