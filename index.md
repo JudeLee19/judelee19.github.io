@@ -54,6 +54,12 @@ layout: default
 <p class="year-label">2026</p>
 
 <div class="pub">
+  <p class="pub-title">Structured Clinical Memory for Safety-Consistent Diagnosis and Recommendation Generation in Long Medical Dialogues</p>
+  <p class="pub-authors"><strong>Dongyub Jude Lee</strong>, Jungseob Lee, Eunhwan Park, Taesun Whang, Heuiseok Lim</p>
+  <p class="pub-venue"><a href="https://www3.cs.stonybrook.edu/~bibm2026/home.html">IEEE BIBM 2026</a></p>
+</div>
+
+<div class="pub">
   <p class="pub-title">Skin-Deep: A Geometric Diagnostic for Alignment Fragility in Large Language Model Representations</p>
   <p class="pub-authors"><strong>Dongyub Jude Lee</strong><sup>*</sup>, Jungseob Lee<sup>*</sup>, Seungyoon Lee, Seongtae Hong, Suhyune Son, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim [<sup>*</sup>equal contribution]</p>
   <p class="pub-venue"><a href="https://2026.aaclnet.org/">AACL-IJCNLP 2026 (Findings)</a></p>
