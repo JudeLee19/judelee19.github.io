@@ -68,7 +68,7 @@ layout: default
 <div class="pub">
   <p class="pub-title">RL from Teacher-Model Refinement: Gradual Imitation Learning for Machine Translation</p>
   <p class="pub-authors"><strong>Dongyub Jude Lee</strong>, Zhenyi Ye, Pengcheng He</p>
-  <p class="pub-venue"><a href="https://2026.emnlp.org/">EMNLP 2026 (Findings)</a></p>
+  <p class="pub-venue"><a href="https://aclanthology.org/2026.findings-emnlp.591/">EMNLP 2026 (Findings)</a></p>
 </div>
 
 <p class="year-label">2024</p>
