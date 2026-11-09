@@ -62,7 +62,7 @@ layout: default
 <div class="pub">
   <p class="pub-title">Skin-Deep: A Geometric Diagnostic for Alignment Fragility in Large Language Model Representations</p>
   <p class="pub-authors"><strong>Dongyub Jude Lee</strong><sup>*</sup>, Jungseob Lee<sup>*</sup>, Seungyoon Lee, Seongtae Hong, Suhyune Son, Sugyeong Eo, Jaehyung Seo, Heuiseok Lim [<sup>*</sup>equal contribution]</p>
-  <p class="pub-venue"><a href="https://2026.aaclnet.org/">AACL-IJCNLP 2026 (Findings)</a></p>
+  <p class="pub-venue"><a href="https://aclanthology.org/2026.findings-aacl.191/">AACL-IJCNLP 2026 (Findings)</a></p>
 </div>
 
 <div class="pub">
